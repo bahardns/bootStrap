@@ -1,5 +1,5 @@
 ## kolonların tasarım örneği
-![örnek tasarım](/ornek-sayfa.jpeg);
+![örnek tasarım](images/ornek-sayfa.jpeg);
 
 
 
